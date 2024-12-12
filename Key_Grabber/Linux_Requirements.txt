@@ -1,0 +1,4 @@
+''''bash
+sudo apt-get install python-xlib
+pip install pyxhook
+pip install pynput
