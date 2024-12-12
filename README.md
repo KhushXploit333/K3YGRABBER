@@ -1,8 +1,11 @@
 # K3YGRABBER
+
 SilentWatcher: A Discreet Keylogger
+
+
 #KEYLOGGER# PRODIGY_CS_04  #K3YGRABBER#
 
-Introduction
+#Introduction
 
 SilentWatcher is a simple Python-based keylogger designed for educational purposes. It captures keystrokes and logs them to a specified file.
 
