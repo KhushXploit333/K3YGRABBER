@@ -3,7 +3,7 @@
 SilentWatcher: A Discreet Keylogger
 
 
-#KEYLOGGER# PRODIGY_CS_04  #K3YGRABBER#
+#KEYLOGGER #K3YGRABBER#
 
 #Introduction
 
@@ -14,7 +14,7 @@ SilentWatcher is a simple Python-based keylogger designed for educational purpos
 1.Clone the Repository:
       ````Bash
 
-         git clone https://github.com/Thencrypt-K3/K3YGRABBER.git
+         git clone https://github.com/KhushXploit333/K3YGRABBER.git
 #Install Dependencies:
        `````Bash
 
